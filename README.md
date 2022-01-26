@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thehi198
-- 👀 I’m interested in ML and data analysis
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on anything related to ML and data modeling
+- 👀 I’m interested in ML and data science
+- 🌱 I’m currently learning Python, Matlab and SQL
+- 💞️ I’m looking to collaborate on anything related to ML and Data Science
 - 📫 Reach me @thehi198 on twitter or u/thehi198 on reddit
 
 <!---
