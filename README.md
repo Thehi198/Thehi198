@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Thehi198
-- 👀 I’m interested in all kinds of things
-- 🌱 I’m currently learning Python, Javascript (React, Next.JS), Go, MongoDB, SQL, and Rust
+- 👀 I’m interested in Infrastructure and AI&LLMs
+- 🌱 I’m currently learning Python (Django, Numpy, Tensorflow, ect.), Javascript (React, Next.JS, Elysia/Bun), Go (Fiber), SQL, and Rust
+- 🟠 I currently work at Mobius Labs on Backend & AI
 - 📫 Reach me @thehi198#8456 on discord
 
 <!---
