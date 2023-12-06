@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thehi198
-- 👀 I’m interested in System Design and AI&LLMs
-- 🌱 I’m currently learning Python (Django, Numpy, Tensorflow, ect.), Javascript (React, Next.JS, Elysia/Bun), Go (Fiber), SQL(Postgres), and Rust
-- 🟠 I currently work at Mobius Labs on System Architecture & AI
+- 👀 Interested in System Design and AI&LLMs
+- 🌱 Learning Python (Django, Numpy, Tensorflow, ect.), Javascript (React, Next.JS, Elysia/Bun), Go (Fiber), SQL(Postgres), and Rust
+- 🟠 Work at Mobius Labs on System Architecture & AI
 - 📫 Reach me @thehi198 on discord
 
 <!---
