@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thehi198
-- 👀 Interested in System Design and AI&LLMs
+- 👀 Interested in System Design, AI&LLMs, Physics informed Modeling and Simulation
 - 🌱 Learning Python (Django, Numpy, Tensorflow, ect.), Javascript (React, Next.JS, Elysia/Bun), Go (Fiber), SQL(Postgres), and Rust
-- 🟠 Work at Mobius Labs on System Architecture & AI
+- 🟠 Currently at Olin Plasma Engineering Lab on Thruster Design
 - 📫 Reach me @thehi198 on discord
 
 <!---
